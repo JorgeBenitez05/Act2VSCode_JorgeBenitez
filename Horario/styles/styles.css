@@ -1,0 +1,72 @@
+body{
+    background-image:url(../images/tecno.jpg) ;
+    background-size: cover;
+    }
+    
+    table{
+        border: 1px black solid;
+        border-collapse: collapse;
+        text-align: center;
+        margin: auto;
+        background-color:rgb(231, 227, 227);
+        font-family: 'Permanent Marker', cursive;
+        
+    }
+    
+    td, th{
+        border: 2px black solid;
+        border-color: rgb(5, 94, 94);
+        width: 9vw;
+        height: 7vh;
+    }
+    .prog{
+        background-color: #ff6961;
+        padding: 20px;
+    }
+    
+    .sist{
+        background-color: #77dd77;
+        padding:20px;
+    
+    }
+    
+    .bas{
+        background-color: #fdfd96;
+        padding:20px;
+    
+    }
+    .leng{
+        background-color: #84b6f4;
+        padding:20px;
+    
+    }
+    .fol{
+        background-color: #fdcae1;
+        padding:20px;
+    
+    }
+    .rec{
+        background-color: #ffff51;
+        padding:10px;
+        font-family: 'Permanent Marker', cursive;
+    
+    }
+    
+    .ent{
+        background-color: #dc94fd;
+    
+    }
+    
+    .semana{
+        height: 7vh;
+        background-color: rgb(231, 227, 227);
+        padding: 25px;
+        font-family: 'Lobster', cursive;
+        font-size: larger;
+    }
+    
+    .hora{
+        background-color: rgb(231, 227, 227);
+        font-family: 'Lobster', cursive;
+        font-size: larger;
+    }
